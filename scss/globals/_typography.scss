@@ -1,5 +1,18 @@
-h1, footer#nombreServicios {
+
+body {
+    font-family: 'Century Gothic';
+}
+h1 {
     text-transform: uppercase;
     font-weight: bold;
     font-size: 30pt;
+}
+
+div.localidad > h1 {
+    font-size: 24pt;
+}
+
+article.letrero {
+   font-size: 20pt;
+   font-weight: bold;
 }
